@@ -21,6 +21,7 @@ brain-gcd
 ```
 ```
 brain-progression
+```
 
 ## Work:
 ### brain-even
