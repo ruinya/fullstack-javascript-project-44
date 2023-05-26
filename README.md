@@ -13,6 +13,10 @@ make install
 ```
 brain-even
 ```
+brain-calc
+```
+brain-gcd
+```
 
 ## Work:
 ### brain-even
@@ -20,3 +24,6 @@ brain-even
 
 ### brain-calc
 [![asciicast](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7.svg)](https://asciinema.org/a/ydgU3L1vzNxCR1oYLaGUiaBb7)
+
+### brain-gcd
+[![asciicast](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL.svg)](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL)
