@@ -39,5 +39,6 @@ brain-prime.js
 ### brain-progression
 [![asciicast](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5.svg)](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5)
 
-### brain-prime.js
+### brain-prime
 [![asciicast](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7.svg)](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7)
+stu
