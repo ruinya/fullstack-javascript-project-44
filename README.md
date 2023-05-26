@@ -13,10 +13,14 @@ make install
 ```
 brain-even
 ```
+```
 brain-calc
+```
 ```
 brain-gcd
 ```
+```
+brain-progression
 
 ## Work:
 ### brain-even
@@ -27,3 +31,6 @@ brain-gcd
 
 ### brain-gcd
 [![asciicast](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL.svg)](https://asciinema.org/a/tL1UfXCvofXcI8SLxXIrCcqBL)
+
+### brain-progression
+[![asciicast](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5.svg)](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5)
