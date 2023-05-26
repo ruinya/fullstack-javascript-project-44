@@ -2,4 +2,4 @@
 
 import runEvenGame from '../src/games/game-even.js';
 
-runEvenGame();
+export default runEvenGame();

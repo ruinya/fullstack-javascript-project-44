@@ -2,4 +2,5 @@
 import callName from '../src/cli.js';
 
 console.log('Welcome to the Brain Games!');
-callName();
+
+export default callName();

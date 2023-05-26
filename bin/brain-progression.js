@@ -2,4 +2,4 @@
 
 import runProgressGame from '../src/games/game-progression.js';
 
-runProgressGame();
+export default runProgressGame();

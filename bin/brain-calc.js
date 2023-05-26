@@ -2,4 +2,4 @@
 
 import runCalcGame from '../src/games/game-calc.js';
 
-runCalcGame();
+export default runCalcGame();
