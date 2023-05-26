@@ -22,6 +22,9 @@ brain-gcd
 ```
 brain-progression
 ```
+```
+brain-prime.js
+```
 
 ## Work:
 ### brain-even
@@ -35,3 +38,6 @@ brain-progression
 
 ### brain-progression
 [![asciicast](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5.svg)](https://asciinema.org/a/NLvpXMryb68vQRb9ixoQjyge5)
+
+### brain-prime.js
+[![asciicast](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7.svg)](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7)
