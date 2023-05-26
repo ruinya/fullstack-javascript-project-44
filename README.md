@@ -41,4 +41,3 @@ brain-prime.js
 
 ### brain-prime
 [![asciicast](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7.svg)](https://asciinema.org/a/vBNNxNGKMTiwiDEMFud8nhdp7)
-stu
